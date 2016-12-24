@@ -1,9 +1,13 @@
 
 ### Updated R code from Gasparrini, Epidemiology 2016
 
+--------------------------------------------------------------------------------
+
 A simulation study comparing methods to model lagged effects in environmental time series, specifically moving averages and distributed lag models. The code fully reproduces the results illustrated in the article:
 
 Gasparrini A. Modelling lagged associations in environmental time series data: a simulation study. *Epidemiology*. 2016; **27**(6):835-842. [[freely available here]](http://www.ag-myresearch.com/2016_gasparrini_epidem.html)
+
+--------------------------------------------------------------------------------
 
 The code:
 
