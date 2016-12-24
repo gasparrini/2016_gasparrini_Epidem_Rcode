@@ -9,3 +9,5 @@ The code:
 
   * *example.R* offers an example of simulation of the data, fit of the models, and          display/summary of the results
   * the numbered files from *00.prep.R* to *05.supplemenatary*, to be run sequentially,      fully reproduce the results of the simulation study presented in the manuscript
+  
+Download as a ZIP file using the green button *Clone or download* above
