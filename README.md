@@ -1,5 +1,5 @@
 
-### Updated R code from Gasparrini, Epidemiology 2016
+### Updated R code from Gasparrini Epidem 2016
 
 --------------------------------------------------------------------------------
 
@@ -12,6 +12,6 @@ Gasparrini A. Modelling lagged associations in environmental time series data: a
 The code:
 
   * *example.R* offers an example of simulation of the data, fit of the models, and display/summary of the results
-  * the numbered files from *00.prep.R* to *05.supplemenatary*, to be run sequentially, fully reproduce the results of the simulation study presented in the manuscript
+  * the numbered files from *00.prep.R* to *05.supplemenatary.R*, to be run sequentially, fully reproduce the results of the simulation study presented in the manuscript
   
 Download as a ZIP file using the green button *Clone or download* above
