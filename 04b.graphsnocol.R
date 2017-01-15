@@ -1,16 +1,16 @@
 ################################################################################
-# SUPPLEMENTAL MATERIAL of the article:
+# Updated version of the code for the analysis in:
+#
 #   "Modelling lagged associations in environmental time series data:
 #     a simulation study"
 #   Antonio Gasparrini
 #   Epidemiology 2016
+#   http://www.ag-myresearch.com/2016_gasparrini_epidem.html
 #
-# This code reproduces the simulation results illustrated in the article
-#
-# 12 July 2016
-# * an updated version of this code, (hopefully) compatible with future
-#   versions of the software, is available at the personal website of the
-#   first author (www.ag-myresearch.com)
+# Update: 15 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2016_gasparrini_Epidem_Rcode
 ################################################################################
 
 ################################################################################
