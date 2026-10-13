@@ -26,7 +26,7 @@ library(dlnm) ; library(splines) ; library(tsModel) ; library(MASS)
 # REAL DATA
 data <- chicagoNMMAPS
 
-# REAL OZONE SERIES FOR NON-LINEAR SCENARIO, STANDARDIZED IN 0 - 50 PPB
+# REAL OZONE SERIES FOR LINEAR SCENARIO, STANDARDIZED IN 0 - 50 PPB
 ozone <- ((data$o3-min(data$o3))/diff(range(data$o3)))*50
 
 # REAL TEMPERATURE SERIES FOR NON-LINEAR SCENARIO, STANDARDIZED IN -20 TO 35C
